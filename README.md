@@ -1,1 +1,1 @@
-# COVID-19-Statistical-Analysis-Simulator
+# COVID-19_Data-Analysis_App
