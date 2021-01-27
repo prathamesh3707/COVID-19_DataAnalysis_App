@@ -9,6 +9,7 @@ The dataset is taken from John Hopkins University and WHO site. The map, key fig
 
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGnRIAOBBrymg/feedshare-shrink_800/0/1610874886359?e=1614816000&v=beta&t=ioJX0TKku_TGvg7F4uuOyjhkIpZOwBVRnd4zuPy13bY" width="350" title="image 1">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGImM1pzDws-Q/feedshare-shrink_800/0/1610874886144?e=1614816000&v=beta&t=R6KUwPQENlfaP4b7loZwnMoYJTnzudlOSPSNZ6CqYrE" width="350" title="image 1">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEi5l3ksdAtoQ/feedshare-shrink_800/0/1610874885846?e=1614816000&v=beta&t=mbImI1Wl6wz6QjLMDP3NRXt9PEAybxAcn3QO-L1ao3A" width="350" title="image 1">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGImM1pzDws-Q/feedshare-shrink_800/0/1610874886144?e=1614816000&v=beta&t=R6KUwPQENlfaP4b7loZwnMoYJTnzudlOSPSNZ6CqYrE" width="350" title="image 2">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEi5l3ksdAtoQ/feedshare-shrink_800/0/1610874885846?e=1614816000&v=beta&t=mbImI1Wl6wz6QjLMDP3NRXt9PEAybxAcn3QO-L1ao3A" width="350" title="image 3">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQELdTxNv-x-PA/feedshare-shrink_800/0/1610874886483?e=1614816000&v=beta&t=xaeGazMgTrnFsvknWPvKY1rQ367UrOW5hZmxJZFGsPA" width="350" title="image 4">
 </p>
