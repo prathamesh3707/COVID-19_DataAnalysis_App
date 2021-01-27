@@ -7,8 +7,6 @@ Two more ways of analyzing the data viz Graph and Tabular analysis are provided.
 
 The dataset is taken from John Hopkins University and WHO site. The map, key figures, summary table and map simulation are done with the help of R Studio. Shiny library was used to run the dataset on web portal.
 
-https://media-exp1.licdn.com/dms/image/C4D22AQGnRIAOBBrymg/feedshare-shrink_800/0/1610874886359?e=1614816000&v=beta&t=ioJX0TKku_TGvg7F4uuOyjhkIpZOwBVRnd4zuPy13bY
-
-https://media-exp1.licdn.com/dms/image/C4D22AQGImM1pzDws-Q/feedshare-shrink_800/0/1610874886144?e=1614816000&v=beta&t=R6KUwPQENlfaP4b7loZwnMoYJTnzudlOSPSNZ6CqYrE
-
-https://media-exp1.licdn.com/dms/image/C4D22AQEi5l3ksdAtoQ/feedshare-shrink_800/0/1610874885846?e=1614816000&v=beta&t=mbImI1Wl6wz6QjLMDP3NRXt9PEAybxAcn3QO-L1ao3A
+<p align="center">
+  <img src="1610874886359.jpg" width="350" title="image 1">
+</p>
